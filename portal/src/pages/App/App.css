@@ -1,0 +1,44 @@
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #47d101;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(52, 163, 18);
+}
+
+.logo-app {
+  width: 200px !important;
+  margin-top: 9px !important;
+  margin-bottom: 0px !important;
+}
+
+MuiAppBar-colorPrimary {
+  color: #fff;
+  background-color: #6495ED !important;
+}
+
+.content {
+  margin: 50px;
+}
+
+hr {
+  border: none;
+  border-bottom: 1px solid #cdcdcd;
+  width: 97.8%;
+}
+
+.valor {
+  margin-bottom: 30px !important;
+}
+
+.variacao {
+  margin-bottom: 30px !important;
+}
