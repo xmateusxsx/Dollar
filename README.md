@@ -1,16 +1,12 @@
 <h2>Starting portal</h2>
 
-1- Open terminal
+1- `cd portal`
 <br>
-2- `cd portal`
-<br>
-3- `yarn start`
+2- `yarn start`
 <br>
 
 <h2>Starting API</h2>
 
-1- Open terminal
+1- `cd api`
 <br>
-2- `cd api`
-<br>
-3- `node server.js`
+2- `node server.js`
